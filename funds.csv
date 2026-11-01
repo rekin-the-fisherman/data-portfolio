@@ -1,0 +1,11 @@
+ticker,name,asset_class,region,expense_ratio_pct,platform
+VOO,Vanguard S&P 500 ETF,Stock ETF,US,0.03,Gotrade
+VXUS,Vanguard Total International Stock ETF,Stock ETF,International,0.05,Gotrade
+QQQM,Invesco Nasdaq 100 ETF,Stock ETF,US,0.15,Gotrade
+VB,Vanguard Small-Cap ETF,Stock ETF,US,0.05,Gotrade
+BND,Vanguard Total Bond Market ETF,Bond ETF,US,0.03,Gotrade
+VNQ,Vanguard Real Estate ETF,REIT ETF,US,0.13,Gotrade
+BTC,Bitcoin,Crypto,Global,,Bitget
+ETH,Ethereum,Crypto,Global,,Bitget
+SOL,Solana,Crypto,Global,,Bitget
+LINK,Chainlink,Crypto,Global,,Bitget
