@@ -1,0 +1,251 @@
+investor_id,age_group,income_bracket,region,risk_profile,joined_date
+I0001,25-34,Upper-middle,,Moderate,2022-04-01
+I0002,45+,Middle,NCR,Conservative,2023-06-01
+I0003,45+,Low,Calabarzon,Moderate,2025-05-01
+I0004,25-34,Middle,Mindanao,Aggressive,2025-04-01
+I0005,25-34,Low,NCR,Aggressive,2024-08-01
+I0006,45+,Middle,Visayas,Moderate,2022-05-01
+I0007,25-34,Middle,Mindanao,Conservative,2025-09-01
+I0008,18-24,High,Calabarzon,Conservative,2025-02-01
+I0009,18-24,Upper-middle,Visayas,Moderate,2021-03-01
+I0010,45+,Low,Calabarzon,Aggressive,2022-03-01
+I0011,25-34,Middle,Calabarzon,Moderate,2021-08-01
+I0012,18-24,Middle,Calabarzon,Moderate,2022-07-01
+I0013,25-34,High,NCR,Aggressive,2024-05-01
+I0014,25-34,Low,Calabarzon,Conservative,2023-10-01
+I0015,25-34,Middle,Calabarzon,Moderate,2021-09-01
+I0016,45+,High,Mindanao,moderate,2024-04-01
+I0017,45+,Middle,Calabarzon,Aggressive,2023-12-01
+I0018,18-24,Middle,NCR,Conservative,2025-05-01
+I0019,18-24,Middle,Mindanao,Conservative,2022-07-01
+I0020,25-34,Middle,NCR,Moderate,2025-05-01
+I0021,35-44,High,Mindanao,Moderate,2024-04-01
+I0022,35-44,Low,Mindanao,Conservative,2022-04-01
+I0023,35-44,Low,Central Luzon,Aggressive,2022-08-01
+I0024,25-34,Low,Calabarzon,Conservative,2024-09-01
+I0025,25-34,Upper-middle,NCR,Aggressive,2024-06-01
+I0026,35-44,Middle,NCR,Conservative,2024-03-01
+I0027,18-24,High,,Aggressive,2023-01-01
+I0028,35-44,Upper-middle,Calabarzon,Conservative,2022-12-01
+I0029,18-24,High,Calabarzon,Aggressive,2023-10-01
+I0030,25-34,Middle,Mindanao,Aggressive,2024-11-01
+I0031,45+,Low,Calabarzon,Moderate,2022-04-01
+I0032,25-34,Middle,Mindanao,Conservative,2025-06-01
+I0033,18-24,High,Visayas,Moderate,2021-12-01
+I0034,25-34,Upper-middle,NCR,Moderate,2023-05-01
+I0035,35-44,Low,Central Luzon,Moderate,2022-07-01
+I0036,18-24,Upper-middle,NCR,Aggressive,2025-07-01
+I0037,25-34,High,NCR,Moderate,2021-11-01
+I0038,18-24,High,Mindanao,Moderate,2021-08-01
+I0039,25-34,Upper-middle,Calabarzon,Moderate,2024-06-01
+I0040,25-34,Upper-middle,NCR,Moderate,2021-10-01
+I0041,25-34,Upper-middle,NCR,Moderate,2025-12-01
+I0042,25-34,Middle,Central Luzon,Conservative,2024-10-01
+I0043,35-44,Low,Calabarzon,Moderate,2025-05-01
+I0044,18-24,Upper-middle,NCR,Moderate,2022-07-01
+I0045,45+,Low,Visayas,Conservative,2024-09-01
+I0046,45+,Middle,NCR,Aggressive,2023-12-01
+I0047,25-34,High,Visayas,Conservative,2023-02-01
+I0048,25-34,Middle,Calabarzon,Conservative,2023-06-01
+I0049,45+,Middle,Calabarzon,Moderate,2021-02-01
+I0050,25-34,High,Calabarzon,Moderate,2021-09-01
+I0051,35-44,Middle,Central Luzon,conservative,2021-08-01
+I0052,25-34,High,Mindanao,Moderate,2024-10-01
+I0053,35-44,High,Visayas,Moderate,2022-05-01
+I0054,25-34,Middle,NCR,Moderate,2024-09-01
+I0055,35-44,Middle,Calabarzon,Aggressive,2024-07-01
+I0056,45+,Low,NCR,Aggressive,2021-09-01
+I0057,18-24,High,NCR,Moderate,2022-08-01
+I0058,35-44,Low,NCR,Moderate,2022-04-01
+I0059,25-34,Low,NCR,Moderate,2021-07-01
+I0060,25-34,Upper-middle,Mindanao,Conservative,2025-01-01
+I0061,25-34,Middle,Visayas,Aggressive,2022-11-01
+I0062,18-24,Upper-middle,Mindanao,Conservative,2025-07-01
+I0063,25-34,Upper-middle,Central Luzon,Conservative,2025-03-01
+I0064,35-44,Low,Calabarzon,Moderate,2025-05-01
+I0065,18-24,Low,Calabarzon,Moderate,2024-09-01
+I0066,35-44,Middle,Calabarzon,moderate,2023-07-01
+I0067,45+,Low,NCR,Aggressive,2023-02-01
+I0068,45+,Middle,Calabarzon,Moderate,2022-11-01
+I0069,45+,Upper-middle,Visayas,Moderate,2024-02-01
+I0070,35-44,Upper-middle,NCR,Conservative,2023-03-01
+I0071,18-24,Middle,NCR,Aggressive,2025-04-01
+I0072,45+,Low,Calabarzon,Conservative,2021-11-01
+I0073,25-34,Low,Central Luzon,Moderate,2022-10-01
+I0074,45+,Upper-middle,Central Luzon,Aggressive,2023-06-01
+I0075,45+,Low,,Aggressive,2022-05-01
+I0076,35-44,Middle,NCR,Aggressive,2022-02-01
+I0077,25-34,Low,NCR,Aggressive,2023-10-01
+I0078,25-34,High,Calabarzon,Conservative,2021-10-01
+I0079,25-34,Low,NCR,Conservative,2024-11-01
+I0080,25-34,Middle,Visayas,Moderate,2022-11-01
+I0081,18-24,Middle,Mindanao,Conservative,2024-10-01
+I0082,18-24,Upper-middle,Central Luzon,Aggressive,2021-04-01
+I0083,35-44,High,NCR,Conservative,2024-12-01
+I0084,45+,Upper-middle,NCR,Moderate,2023-05-01
+I0085,18-24,Middle,Visayas,Conservative,2025-04-01
+I0086,18-24,Low,Mindanao,Conservative,2024-06-01
+I0087,25-34,Upper-middle,Central Luzon,Moderate,2025-01-01
+I0088,18-24,High,Calabarzon,Conservative,2024-04-01
+I0089,18-24,Low,Calabarzon,Aggressive,2021-07-01
+I0090,25-34,Upper-middle,Central Luzon,Moderate,2025-11-01
+I0091,25-34,Low,Mindanao,Moderate,2022-12-01
+I0092,25-34,Middle,Calabarzon,Aggressive,2025-06-01
+I0093,25-34,Middle,NCR,Aggressive,2023-07-01
+I0094,35-44,Middle,NCR,Moderate,2024-03-01
+I0095,25-34,High,NCR,Aggressive,2021-11-01
+I0096,25-34,Upper-middle,Mindanao,Aggressive,2025-06-01
+I0097,25-34,Middle,Central Luzon,Moderate,2024-12-01
+I0098,45+,Upper-middle,Mindanao,Moderate,2023-03-01
+I0099,25-34,Middle,NCR,Aggressive,2023-02-01
+I0100,35-44,Middle,Calabarzon,Aggressive,2024-12-01
+I0101,25-34,Middle,Visayas,Moderate,2021-10-01
+I0102,45+,Middle,Central Luzon,Conservative,2022-06-01
+I0103,25-34,Middle,NCR,Aggressive,2021-09-01
+I0104,25-34,Low,Calabarzon,Moderate,2023-08-01
+I0105,45+,Low,Central Luzon,Conservative,2022-11-01
+I0106,35-44,Middle,Central Luzon,Moderate,2025-11-01
+I0107,18-24,Middle,Calabarzon,moderate,2025-06-01
+I0108,18-24,Upper-middle,NCR,Aggressive,2023-12-01
+I0109,45+,Upper-middle,Mindanao,Moderate,2024-10-01
+I0110,18-24,Middle,Calabarzon,Conservative,2023-07-01
+I0111,25-34,Middle,Visayas,Conservative,2023-02-01
+I0112,45+,High,,Moderate,2024-12-01
+I0113,18-24,Middle,NCR,Aggressive,2022-10-01
+I0114,18-24,Middle,NCR,Conservative,2022-07-01
+I0115,25-34,Middle,NCR,Moderate,2021-09-01
+I0116,18-24,Upper-middle,NCR,Aggressive,2025-02-01
+I0117,25-34,High,NCR,Conservative,2024-12-01
+I0118,25-34,Low,,Moderate,2021-02-01
+I0119,25-34,High,Calabarzon,Aggressive,2025-03-01
+I0120,18-24,Upper-middle,Calabarzon,Conservative,2022-03-01
+I0121,35-44,Upper-middle,Visayas,Aggressive,2025-06-01
+I0122,35-44,Middle,NCR,Aggressive,2021-11-01
+I0123,25-34,Upper-middle,NCR,Conservative,2021-10-01
+I0124,18-24,Middle,Visayas,Moderate,2022-04-01
+I0125,25-34,Upper-middle,Calabarzon,Moderate,2025-09-01
+I0126,35-44,Middle,Calabarzon,Moderate,2025-09-01
+I0127,25-34,Middle,NCR,Moderate,2024-04-01
+I0128,45+,Upper-middle,Calabarzon,Moderate,2021-02-01
+I0129,25-34,Low,NCR,Conservative,2024-02-01
+I0130,25-34,Low,Mindanao,Moderate,2022-06-01
+I0131,18-24,Upper-middle,Visayas,Conservative,2024-08-01
+I0132,25-34,Upper-middle,Calabarzon,Aggressive,2023-11-01
+I0133,35-44,Upper-middle,NCR,Aggressive,2025-05-01
+I0134,35-44,Middle,Mindanao,Moderate,2024-07-01
+I0135,25-34,Upper-middle,,Moderate,2022-07-01
+I0136,45+,Low,Central Luzon,Moderate,2024-11-01
+I0137,35-44,Upper-middle,Mindanao,Moderate,2022-03-01
+I0138,25-34,Middle,Visayas,Moderate,2022-11-01
+I0139,25-34,Middle,Mindanao,Aggressive,2022-03-01
+I0140,35-44,Middle,Calabarzon,Moderate,2022-02-01
+I0141,18-24,Low,Visayas,Moderate,2023-01-01
+I0142,35-44,Upper-middle,Calabarzon,Aggressive,2025-04-01
+I0143,35-44,Middle,NCR,Moderate,2023-03-01
+I0144,25-34,Upper-middle,Calabarzon,Aggressive,2021-08-01
+I0145,45+,Middle,Calabarzon,Conservative,2024-10-01
+I0146,25-34,Low,Visayas,Aggressive,2021-04-01
+I0147,25-34,Middle,Visayas,Aggressive,2023-10-01
+I0148,25-34,Middle,NCR,Aggressive,2022-02-01
+I0149,45+,High,NCR,Aggressive,2025-07-01
+I0150,25-34,Upper-middle,Calabarzon,Aggressive,2023-06-01
+I0151,35-44,Low,Calabarzon,Aggressive,2023-01-01
+I0152,25-34,Upper-middle,Mindanao,Moderate,2025-09-01
+I0153,45+,Middle,Mindanao,Moderate,2023-04-01
+I0154,45+,Upper-middle,,Conservative,2024-08-01
+I0155,18-24,Middle,Visayas,Conservative,2023-03-01
+I0156,45+,Middle,Central Luzon,moderate,2023-10-01
+I0157,35-44,Middle,NCR,Aggressive,2023-06-01
+I0158,18-24,Middle,Calabarzon,Aggressive,2023-08-01
+I0159,25-34,Upper-middle,NCR,Conservative,2023-03-01
+I0160,18-24,Middle,Visayas,Aggressive,2024-06-01
+I0161,25-34,Upper-middle,NCR,Conservative,2023-05-01
+I0162,18-24,Middle,NCR,Moderate,2024-02-01
+I0163,25-34,Upper-middle,Calabarzon,Aggressive,2024-08-01
+I0164,25-34,Middle,Calabarzon,Aggressive,2022-09-01
+I0165,35-44,Middle,Visayas,Aggressive,2021-11-01
+I0166,35-44,Middle,NCR,Moderate,2021-06-01
+I0167,45+,Middle,NCR,Moderate,2023-12-01
+I0168,25-34,Low,Mindanao,Aggressive,2022-01-01
+I0169,25-34,Middle,Mindanao,Moderate,2022-10-01
+I0170,18-24,Low,Central Luzon,Aggressive,2024-11-01
+I0171,25-34,Middle,Central Luzon,Aggressive,2023-04-01
+I0172,45+,Low,NCR,Moderate,2024-03-01
+I0173,18-24,Upper-middle,Mindanao,Aggressive,2021-09-01
+I0174,45+,Upper-middle,Visayas,Moderate,2024-12-01
+I0175,35-44,Middle,Calabarzon,Aggressive,2023-12-01
+I0176,25-34,Low,NCR,Moderate,2021-03-01
+I0177,35-44,Middle,NCR,Moderate,2023-05-01
+I0178,25-34,Low,Calabarzon,Moderate,2025-07-01
+I0179,45+,Upper-middle,Calabarzon,Moderate,2023-05-01
+I0180,18-24,Low,,Moderate,2022-11-01
+I0181,18-24,Middle,Calabarzon,Conservative,2021-02-01
+I0182,35-44,Middle,Calabarzon,Aggressive,2025-08-01
+I0183,25-34,Low,NCR,Aggressive,2022-02-01
+I0184,18-24,Middle,Calabarzon,Conservative,2023-12-01
+I0185,25-34,Middle,Calabarzon,Aggressive,2023-02-01
+I0186,25-34,Upper-middle,Calabarzon,Moderate,2023-09-01
+I0187,25-34,High,Central Luzon,Conservative,2021-08-01
+I0188,35-44,Middle,Calabarzon,Aggressive,2025-02-01
+I0189,45+,Upper-middle,NCR,Moderate,2021-10-01
+I0190,18-24,Low,Visayas,Aggressive,2024-02-01
+I0191,25-34,Middle,Calabarzon,Aggressive,2022-04-01
+I0192,45+,Middle,Calabarzon,Moderate,2024-05-01
+I0193,25-34,Middle,Visayas,Conservative,2021-06-01
+I0194,35-44,Upper-middle,Visayas,Aggressive,2021-10-01
+I0195,18-24,Upper-middle,Visayas,Moderate,2025-07-01
+I0196,45+,Low,Visayas,Aggressive,2024-01-01
+I0197,25-34,Middle,Central Luzon,Moderate,2025-01-01
+I0198,45+,Upper-middle,Visayas,Aggressive,2022-10-01
+I0199,35-44,High,NCR,Aggressive,2024-10-01
+I0200,45+,Middle,Central Luzon,Moderate,2021-05-01
+I0201,18-24,Upper-middle,NCR,Moderate,2024-08-01
+I0202,35-44,High,NCR,Moderate,2021-08-01
+I0203,18-24,Upper-middle,NCR,Conservative,2024-03-01
+I0204,25-34,Middle,Calabarzon,Conservative,2023-05-01
+I0205,25-34,Low,NCR,Moderate,2024-02-01
+I0206,25-34,Middle,,Conservative,2022-04-01
+I0207,35-44,Middle,Visayas,Aggressive,2021-07-01
+I0208,45+,High,Visayas,Moderate,2024-10-01
+I0209,18-24,Middle,NCR,Moderate,2023-04-01
+I0210,18-24,Middle,Central Luzon,Moderate,2021-08-01
+I0211,25-34,Low,Visayas,Moderate,2023-02-01
+I0212,35-44,Upper-middle,NCR,Aggressive,2021-01-01
+I0213,25-34,Middle,NCR,Moderate,2025-05-01
+I0214,25-34,Upper-middle,NCR,Moderate,2025-12-01
+I0215,35-44,Low,Calabarzon,Moderate,2023-01-01
+I0216,35-44,Upper-middle,NCR,Moderate,2022-07-01
+I0217,25-34,Upper-middle,Calabarzon,Aggressive,2024-02-01
+I0218,18-24,Middle,Calabarzon,Moderate,2023-07-01
+I0219,25-34,Low,Central Luzon,Moderate,2024-10-01
+I0220,45+,Middle,Calabarzon,Moderate,2022-01-01
+I0221,25-34,Upper-middle,Central Luzon,Conservative,2022-11-01
+I0222,18-24,Low,NCR,Aggressive,2022-01-01
+I0223,25-34,Low,Visayas,Moderate,2025-09-01
+I0224,25-34,Middle,Visayas,Conservative,2023-01-01
+I0225,25-34,Low,Visayas,Aggressive,2024-03-01
+I0226,25-34,Upper-middle,NCR,Aggressive,2024-12-01
+I0227,45+,Upper-middle,Mindanao,Moderate,2024-02-01
+I0228,25-34,High,Central Luzon,Aggressive,2021-03-01
+I0229,25-34,Upper-middle,NCR,Conservative,2025-12-01
+I0230,35-44,Middle,Calabarzon,Moderate,2025-03-01
+I0231,45+,Low,Calabarzon,Aggressive,2022-07-01
+I0232,35-44,Upper-middle,Calabarzon,Aggressive,2025-12-01
+I0233,25-34,Upper-middle,NCR,Moderate,2025-06-01
+I0234,35-44,Upper-middle,NCR,Moderate,2023-10-01
+I0235,25-34,Upper-middle,Calabarzon,Moderate,2023-02-01
+I0236,45+,Upper-middle,Visayas,Moderate,2022-10-01
+I0237,25-34,Middle,Calabarzon,Moderate,2022-04-01
+I0238,18-24,Upper-middle,NCR,Aggressive,2022-03-01
+I0239,35-44,Middle,Calabarzon,Aggressive,2021-08-01
+I0240,25-34,Middle,NCR,Aggressive,2021-11-01
+I0241,35-44,Middle,NCR,Aggressive,2025-11-01
+I0242,35-44,Low,Mindanao,Conservative,2022-08-01
+I0243,25-34,Middle,NCR,aggressive,2022-01-01
+I0244,18-24,Middle,Calabarzon,Moderate,2025-04-01
+I0245,35-44,Middle,Calabarzon,Aggressive,2023-12-01
+I0246,18-24,Upper-middle,NCR,Moderate,2021-01-01
+I0247,45+,Upper-middle,Mindanao,Moderate,2022-04-01
+I0248,45+,Upper-middle,Mindanao,Aggressive,2024-12-01
+I0249,25-34,High,NCR,Conservative,2022-05-01
+I0250,18-24,Low,Calabarzon,Moderate,2024-05-01

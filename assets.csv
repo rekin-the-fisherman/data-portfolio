@@ -1,0 +1,13 @@
+asset_id,ticker,name,asset_class,region,risk_level
+A01,VOO,Vanguard S&P 500 ETF,Stock ETF,US,2
+A02,VXUS,Vanguard Total International Stock ETF,Stock ETF,International,3
+A03,QQQM,Invesco Nasdaq 100 ETF,Stock ETF,US,3
+A04,VB,Vanguard Small-Cap ETF,Stock ETF,US,3
+A05,BND,Vanguard Total Bond Market ETF,Bond ETF,US,1
+A06,VNQ,Vanguard Real Estate ETF,REIT ETF,US,3
+A07,GLD,SPDR Gold Shares,Commodity ETF,Global,2
+A08,BTC,Bitcoin,Crypto,Global,5
+A09,ETH,Ethereum,Crypto,Global,5
+A10,SOL,Solana,Crypto,Global,5
+A11,LINK,Chainlink,Crypto,Global,5
+A12,AVAX,Avalanche,Crypto,Global,5
